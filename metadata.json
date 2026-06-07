@@ -1,0 +1,6 @@
+{
+  "name": "Maison Lumière",
+  "description": "High-end luxury Parisian perfumery house - Maison Lumière. Explore rare fragrances, heritage collections, and bespoke atelier experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
